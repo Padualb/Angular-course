@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "PS5",
+      "price": "5000",
+      "id": 12
+    },
+    {
+      "name": "XBOX",
+      "price": "4000",
+      "id": 13
+    },
+    {
+      "name": "pc",
+      "price": "12",
+      "id": 14
+    }
+  ]
+}
